@@ -1,0 +1,25 @@
+{
+  "$GMSound":"",
+  "%Name":"sd_bem_vindo",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "bitRate":128,
+  "compression":0,
+  "conversionMode":0,
+  "duration":2.533875,
+  "name":"sd_bem_vindo",
+  "parent":{
+    "name":"NARRADORA",
+    "path":"folders/Sons/NARRADORA.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"sd_bem_vindo.mp3",
+  "type":0,
+  "volume":1.0,
+}

@@ -1,0 +1,25 @@
+{
+  "$GMSound":"",
+  "%Name":"sd_formeapalavra",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "bitRate":128,
+  "compression":0,
+  "conversionMode":0,
+  "duration":2.821125,
+  "name":"sd_formeapalavra",
+  "parent":{
+    "name":"NARRADORA",
+    "path":"folders/Sons/NARRADORA.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"sd_formeapalavra.mp3",
+  "type":0,
+  "volume":1.0,
+}

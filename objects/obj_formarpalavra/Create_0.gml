@@ -1,0 +1,1 @@
+audio_play_sound(sd_formeapalavra, 0, false)

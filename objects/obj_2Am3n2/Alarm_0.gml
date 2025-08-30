@@ -1,0 +1,7 @@
+if mouse_check_button {
+	 audio_play_sound (sd_botaoerrado, 0, false)
+	contadornumb2m3n2 =+1
+	 audio_play_sound (sd_ntem2silaba, 0, false)
+}
+event_inherited();
+

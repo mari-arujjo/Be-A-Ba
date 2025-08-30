@@ -1,0 +1,1 @@
+audio_play_sound(sd_leiaassilabas, 0, false)

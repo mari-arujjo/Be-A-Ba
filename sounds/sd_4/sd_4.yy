@@ -1,0 +1,25 @@
+{
+  "$GMSound":"",
+  "%Name":"sd_4",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "bitRate":128,
+  "compression":0,
+  "conversionMode":0,
+  "duration":0.600816,
+  "name":"sd_4",
+  "parent":{
+    "name":"NUMEROS",
+    "path":"folders/Sons/NUMEROS.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"sd_4.mp3",
+  "type":0,
+  "volume":1.0,
+}
